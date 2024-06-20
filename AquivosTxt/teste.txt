@@ -1,0 +1,5 @@
+** Testando mecanismos de gerenciamento de arquivos **
+
+- Criado um arquivo em um repositorio já existente.
+- Utilizado "tipo.arquivo" para criar uma pasta onde serão colocados arquivos do mesmo tipo 
+- Nomeando o fim do arquivo com ".tipodearquivo" para definir o tipo do arquivo 
